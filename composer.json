@@ -6,9 +6,6 @@
     "magento/framework": "*",
     "magento/module-customer": "103.0.*"
   },
-  "license": [
-    "Proprietary"
-  ],
   "autoload": {
     "files": [
       "registration.php"

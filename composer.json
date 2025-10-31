@@ -1,5 +1,5 @@
 {
-  "name": "aquive-media/module-disable-customer-file-upload",
+  "name": "aquivemedia/module-disable-customer-file-upload",
   "description": "N/A",
   "type": "magento2-module",
   "require": {
